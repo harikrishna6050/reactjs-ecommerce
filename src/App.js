@@ -29,6 +29,7 @@ function App() {
 
         <Routes>
           <Route exact path='/' element={<Home />}></Route>
+          <Route exact path='/' element={<Home />}></Route>
           <Route exact path='/home' element={<Home />}></Route>
           <Route excat path='/products' element={<Products/>}></Route>
           <Route exact path="/product-details/:productId" element={<ProductDetails  updateCartData={updateCartData}/>}></Route>

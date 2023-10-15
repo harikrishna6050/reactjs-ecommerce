@@ -24,6 +24,7 @@ function ProductDetails(props) {
         return <div>Loading...</div>;
     }
 
+
     let updateSelProductImage = (selProductImageDetails) => {
         setProductImageData(selProductImageDetails.image);
     };
@@ -54,7 +55,7 @@ function ProductDetails(props) {
                             <img className="sel-product-image" src={productImageData} alt="ProductImage" />
                         </div>
                     </div>
-                    
+
                     {/* ADD Cart button */}
                     <div className="d-flex justify-content-end">
                         <button type="button" className="btn shadow add-cart-btn" onClick={() => props.updateCartData(selProduct)}>

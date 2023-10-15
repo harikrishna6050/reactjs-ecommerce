@@ -84,11 +84,11 @@ const productsList = [
             "Quality: All garments are subjected to the following tests Fabric dimensional stability test and quality inspection for colours and wash fastness."
         ],
         images: [
-            {idImage: 1, image: ts1},
-            {idImage: 2, image: ts2},
-            {idImage: 3, image: ts3},
-            {idImage: 4, image: ts4},
-            {idImage: 5, image: ts5}
+            { idImage: 1, image: ts1 },
+            { idImage: 2, image: ts2 },
+            { idImage: 3, image: ts3 },
+            { idImage: 4, image: ts4 },
+            { idImage: 5, image: ts5 }
         ]
     },
     {
@@ -109,11 +109,11 @@ const productsList = [
             "Expandable Memory : 16 GB"
         ],
         images: [
-            {idImage: 1, image: cp1},
-            {idImage: 2, image: cp2},
-            {idImage: 3, image: cp3},
-            {idImage: 4, image: cp4},
-            {idImage: 5, image: cp5}
+            { idImage: 1, image: cp1 },
+            { idImage: 2, image: cp2 },
+            { idImage: 3, image: cp3 },
+            { idImage: 4, image: cp4 },
+            { idImage: 5, image: cp5 }
         ]
     },
     {
@@ -133,11 +133,11 @@ const productsList = [
             "Octa Core"
         ],
         images: [
-            {idImage: 1, image: ph1},
-            {idImage: 2, image: ph2},
-            {idImage: 3, image: ph3},
-            {idImage: 4, image: ph4},
-            {idImage: 5, image: ph5}
+            { idImage: 1, image: ph1 },
+            { idImage: 2, image: ph2 },
+            { idImage: 3, image: ph3 },
+            { idImage: 4, image: ph4 },
+            { idImage: 5, image: ph5 }
         ]
     },
     {
@@ -153,11 +153,11 @@ const productsList = [
             "pack of : 1"
         ],
         images: [
-            {idImage: 1, image: sh1},
-            {idImage: 2, image: sh2},
-            {idImage: 3, image: sh3},
-            {idImage: 4, image: sh4},
-            {idImage: 5, image: sh5}
+            { idImage: 1, image: sh1 },
+            { idImage: 2, image: sh2 },
+            { idImage: 3, image: sh3 },
+            { idImage: 4, image: sh4 },
+            { idImage: 5, image: sh5 }
         ]
     },
     {
@@ -175,11 +175,11 @@ const productsList = [
             "Capacity : 185 L"
         ],
         images: [
-            {idImage: 1, image: ref1},
-            {idImage: 2, image: ref2},
-            {idImage: 3, image: ref3},
-            {idImage: 4, image: ref4},
-            {idImage: 5, image: ref5}
+            { idImage: 1, image: ref1 },
+            { idImage: 2, image: ref2 },
+            { idImage: 3, image: ref3 },
+            { idImage: 4, image: ref4 },
+            { idImage: 5, image: ref5 }
         ]
     },
     {
@@ -195,11 +195,11 @@ const productsList = [
             "Color : Blue"
         ],
         images: [
-            {idImage: 1, image: bg1},
-            {idImage: 2, image: bg2},
-            {idImage: 3, image: bg3},
-            {idImage: 4, image: bg4},
-            {idImage: 5, image: bg5}
+            { idImage: 1, image: bg1 },
+            { idImage: 2, image: bg2 },
+            { idImage: 3, image: bg3 },
+            { idImage: 4, image: bg4 },
+            { idImage: 5, image: bg5 }
         ]
     },
     {
@@ -215,11 +215,11 @@ const productsList = [
             "Power Source : Japanese Battery Powered"
         ],
         images: [
-            {idImage: 1, image: w1},
-            {idImage: 2, image: w2},
-            {idImage: 3, image: w3},
-            {idImage: 4, image: w4},
-            {idImage: 5, image: w5}
+            { idImage: 1, image: w1 },
+            { idImage: 2, image: w2 },
+            { idImage: 3, image: w3 },
+            { idImage: 4, image: w4 },
+            { idImage: 5, image: w5 }
         ]
     },
     {
@@ -237,11 +237,11 @@ const productsList = [
             "RAM : 8 GB"
         ],
         images: [
-            {idImage: 1, image: lp1},
-            {idImage: 2, image: lp2},
-            {idImage: 3, image: lp3},
-            {idImage: 4, image: lp4},
-            {idImage: 5, image: lp5}
+            { idImage: 1, image: lp1 },
+            { idImage: 2, image: lp2 },
+            { idImage: 3, image: lp3 },
+            { idImage: 4, image: lp4 },
+            { idImage: 5, image: lp5 }
         ]
     }
 ];
