@@ -6,3 +6,7 @@
 .icon-cursor {
     cursor: pointer;
 }
+
+a:active {
+    border-bottom: 5px solid red;
+}
